@@ -6,8 +6,6 @@ import numpy as np
 搭建1个类似VGG网络（参考手写数据集模型结构），实现手写汉字数据的分类问题。
 要求：验证数据集准确率达到90%以上。 请提交 代码 + 验证准确率截图。
 
-提交时间：下周六之前 邮箱：yingjun@ibeifeng.com
-		 tips: 请标注好  班级（AI-19）和 名字
 PIL 包整合到了pillow下面，需要你安装pillow。可以在anaconda环境中（windows下） 
 执行   pip install pillow
 """
